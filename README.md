@@ -62,4 +62,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [indricostudio.com](https://indricostudio.com)
 - GitHub [@indrico](https://github.com/indrico)
-- Twitter [@indrico123](https://twitter.com/indrico123})
+- Twitter [@indrico123](https://twitter.com/indrico123)
