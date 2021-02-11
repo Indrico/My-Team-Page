@@ -17,6 +17,7 @@ body{
     padding: 40px 0px;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 5vh;
 }
 
 .header-right{
@@ -60,6 +61,14 @@ body{
     font-weight: 700;
 }
 
+footer{
+    transform: translateY(150px);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
 @media (max-width: 480px){
     .container {
         max-width: 90%;
@@ -67,6 +76,8 @@ body{
     }
     .header{
         flex-direction: column;
+        margin-bottom: 0px;
+        padding: 20px 0px;
     }
 
     .header-logo{
@@ -104,5 +115,8 @@ body{
     }
     .team-upper {
         gap: 10px;
+    }
+    footer{
+        font-size: unset;
     }
 }
