@@ -35,8 +35,8 @@
 <!-- OVERVIEW -->
 
 ## Overview
-<div style="text-align:center"><img src="https://indrico-my-team-demo.netlify.app/screenshoot/desktop-screenshoot.png" /></div>
-<div style="text-align:center"><img src="https://indrico-my-team-demo.netlify.app/screenshoot/mobile-screenshoot.png" /></div>
+<div align="center"><img src="https://indrico-my-team-demo.netlify.app/screenshoot/desktop-screenshoot.png" /></div>
+<div align="center"><img src="https://indrico-my-team-demo.netlify.app/screenshoot/mobile-screenshoot.png" /></div>
 
 ### Built With
 
