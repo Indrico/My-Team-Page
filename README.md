@@ -60,6 +60,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [indricostudio.com](https://indricostudio.com)
+- Website [indrico.xyz](https://indrico.xyz)
 - GitHub [@indrico](https://github.com/indrico)
 - Twitter [@indrico123](https://twitter.com/indrico123)
